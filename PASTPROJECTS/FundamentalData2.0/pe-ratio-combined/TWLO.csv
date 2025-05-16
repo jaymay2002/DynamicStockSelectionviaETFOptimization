@@ -1,6 +1,8 @@
 Twilio PE Ratio Historical Data,Twilio PE Ratio Historical Data,Twilio PE Ratio Historical Data,Twilio PE Ratio Historical Data
 Date,Stock Price,TTM Net EPS,PE Ratio
-2024-10-17,70.21,,0.0
+2025-03-20,101.79,,0.0
+2024-12-31,108.08,$-0.64,0.0
+2024-09-30,65.22,$-2.57,0.0
 2024-06-30,56.81,$-3.29,0.0
 2024-03-31,61.15,$-4.01,0.0
 2023-12-31,75.87,$-5.54,0.0
@@ -29,5 +31,5 @@ Date,Stock Price,TTM Net EPS,PE Ratio
 2018-03-31,38.18,$-0.78,0.0
 2017-12-31,23.6,$-0.69,0.0
 2017-09-30,29.85,$-0.64,0.0
-2017-06-30,29.11,$-0.84,0.0
+2017-06-30,29.11,$-0.52,0.0
 2017-03-31,28.87,$-0.89,0.0

@@ -1,6 +1,8 @@
 Match Group Price to Free Cash Flow Ratio Historical Data,Match Group Price to Free Cash Flow Ratio Historical Data,Match Group Price to Free Cash Flow Ratio Historical Data,Match Group Price to Free Cash Flow Ratio Historical Data
 Date,Stock Price,TTM FCF per Share,Price to FCF Ratio
-2024-08-30,37.21,,11.54
+2025-03-20,31.21,,9.87
+2024-12-31,32.71,$3.16,10.35
+2024-09-30,37.84,$3.19,11.88
 2024-06-30,30.38,$3.23,9.42
 2024-03-31,36.28,$3.42,10.6
 2023-12-31,36.5,$2.83,12.91
@@ -16,10 +18,10 @@ Date,Stock Price,TTM FCF per Share,Price to FCF Ratio
 2021-06-30,161.25,$2.31,69.71
 2021-03-31,137.38,$2.68,51.22
 2020-12-31,151.19,$2.53,59.77
-2020-09-30,110.65,$-0.68,0.0
-2020-06-30,92.35,$0.29,316.04
-2020-03-31,51.18,$-0.71,0.0
-2019-12-31,71.13,0,0.0
+2020-09-30,110.65,$2.45,45.22
+2020-06-30,92.35,$3.42,27.04
+2020-03-31,51.18,$2.41,21.2
+2019-12-31,71.13,$3.12,22.78
 2019-09-30,62.24,$-2.90,0.0
 2019-06-30,62.12,$-1.31,0.0
 2019-03-31,60.0,$0.80,75.4
