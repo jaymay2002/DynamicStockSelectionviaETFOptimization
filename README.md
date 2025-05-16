@@ -3,7 +3,7 @@
 ## Important Files (methodology explained below)
 - ETFSCREENER_SLOPE.ipynb = This notebook contains ETF selection criteria using moving averages, past performance, etc.
 - GridSearch.ipynb = This notebook contains the basis for stock fundamental data analysis using weighted growth of indicators
-- FINALCOMBINEDFUNDAMENTALETFS.ipynb = This notebook combines all previous methdology to dynamically select etfs and prime stock candidates from these.
+- FINALCOMBINEDFUNDAMENTALSTOCKS.ipynb = This notebook combines all previous methdology to dynamically select etfs and prime stock candidates from these.
 
 
 This project implements an algorithmic strategy for selecting optimal ETFs and stocks, combining both technical and fundamental analysis. The primary goal is to identify attractive ETFs and then select the best-performing stocks within those ETFs based on key market and financial indicators. Additionally, the project includes a backtesting framework to fine-tune selection parameters and optimize results.
